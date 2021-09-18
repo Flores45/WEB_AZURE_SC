@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SC_AZURE.Models;
+using WEB_AZURE_SC_2.Models;
 
-namespace SC_AZURE.Controllers
+namespace WEB_AZURE_SC_2.Controllers
 {
     public class HomeController : Controller
     {

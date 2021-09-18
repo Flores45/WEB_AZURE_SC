@@ -1,6 +1,6 @@
 using System;
 
-namespace SC_AZURE.Models
+namespace WEB_AZURE_SC_2.Models
 {
     public class ErrorViewModel
     {

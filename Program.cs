@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace SC_AZURE
+namespace WEB_AZURE_SC_2
 {
     public class Program
     {
